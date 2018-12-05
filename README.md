@@ -14,10 +14,11 @@
 ## 训练
 run the command ``python chinese_rec.py --mode=train --max_steps=16002 --eval_steps=100 --save_steps=500``
 
-## 校验
+## 模型评估
 run the command ``python chinese_rec.py --mode=validation``
 ![网络](https://raw.githubusercontent.com/Mignet/chinese-write-handling-char-recognition/master/pic/accuracy.svg)
 ## 测试
-run the command ``python chinese_rec.py--mode=inference``
+把要识别的图像丢到tmp目录下就行了
+run the command ``python chinese_rec.py --mode=inference``
 
 
