@@ -1,4 +1,4 @@
-# chinese-write-handling-char-recognition
+# handwritten chinese recognition
 汉字手写识别
 
 ## 数据集
